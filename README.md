@@ -1,8 +1,11 @@
 # Information-Retrieval
 
-package : Pyserini
+package : 
 
-herf : https://github.com/castorini/pyserini#how-do-i-index-and-search-my-own-documents
+Pyserini : https://github.com/castorini/pyserini#how-do-i-index-and-search-my-own-documents
+
+stanaz : https://stanfordnlp.github.io/stanza/
+
 
 ## How to Execute
 
